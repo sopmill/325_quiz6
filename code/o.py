@@ -40,3 +40,4 @@ if __name__ == "__main__":
     shapes = [Circle(5), Square(4), Rectangle(3, 6), Triangle(4, 8)]
     for shape in shapes:
         print(f"Area of {shape.__class__.__name__}: {shape.get_area()}")
+# 325_quiz6

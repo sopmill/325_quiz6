@@ -39,3 +39,4 @@ if __name__ == "__main__":
     logger = LoggingLibraryLogger(logging_library=logging)
     app = Application(logger)
     app.do_something()
+# 325_quiz6

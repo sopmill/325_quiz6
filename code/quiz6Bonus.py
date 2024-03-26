@@ -107,3 +107,4 @@ if __name__ == "__main__":
 
     #Dummy Data
     activity_monitor.collect_activity_data(user, running_activity.activity_type, {"steps": 5000, "distance": 4.5, "calories": 300})
+# 325_quiz6
